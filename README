@@ -1,0 +1,52 @@
+
+brickshooter v0.04
+-------------------
+
+Clear the central area from blocks.  Three or more same color blocks
+that touch each other will be removed from the playing field.  You
+can shoot blocks into the playing field from the fringes.
+
+Use the keyboard or mouse to push blocks into the field.
+
+
+This is a clone of a windows game with the same name.
+
+
+Keys
+-----
+
+ Cursor Up
+ Cursor Down
+ Cursor Left      Moves the block selection
+ Cursor Right
+ Z
+ X
+
+ Space            Shoots the selected block into the field
+
+ Escape           Menu
+
+
+Requirements
+-------------
+
+ SDL
+ SDL_image
+ SDL_mixer
+
+
+License
+--------
+
+GPLv2
+
+Sounds created with sfxr
+ http://www.cyd.liu.se/~tompe573/hp/project_sfxr.html
+
+Author
+-------
+
+Pasi Kallinen
+paxed@alt.org
+
+2008.05.07

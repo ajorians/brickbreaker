@@ -1,0 +1,25 @@
+MINGW = c:/mingw
+GNUWIN32 = $(MINGW)/GnuWin32/gnuwin32/
+MSYS = c:/msys/1.0/local
+SDLCFLAGS = -I$(GNUWIN32)/include -I$(MINGW)/include -I$(MSYS)/include -I$(GNUWIN32)/include/SDL -I$(MINGW)/include/SDL -I$(MSYS)/include/SDL
+SDLLIBS = -L$(GNUWIN32)/lib -L$(MINGW)/lib -L$(MSYS)/lib -lmingw32 -lSDLmain -lSDL_ttf -lfreetype -lSDL -lSDL_mixer -lSDL_image
+
+GCC = gcc
+CFLAGS = -Wall --pedantic
+EXE = brickshooter
+
+##########################
+
+all:
+	$(GCC) $(CFLAGS) $(EXE).c -o $(EXE).exe $(SDLCFLAGS) $(SDLLIBS)
+
+clean:
+	rm -f *.o $(EXE).exe core
+
+distclean: clean
+	rm -f *~
+
+##########################
+
+#%.o: %.c
+#	$(GCC) $(CFLAGS) -c $< -o $@

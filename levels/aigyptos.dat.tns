@@ -1,0 +1,696 @@
+# These levels are originally from Brickshooter Egypt
+#   http://www.brickshooter.com/egypt.php
+
+SETNAME:Aigyptos
+
+
+# Lines beginning with hashmark are comments
+#
+
+LEVEL
+SEED:0
+MAP
+1
+
+00
+11
+
+ 0
+ENDMAP
+
+LEVEL
+MAP
+0  1
+ 01
+ 10
+1  0
+ENDMAP
+
+LEVEL
+MAP
+   0
+ 1
+     1
+0
+    0
+  1
+ENDMAP
+
+LEVEL
+MAP
+ 1  1
+212010
+202020
+ 0  2
+ENDMAP
+
+LEVEL
+MAP
+1 1
+ 022
+210
+ 1 0
+ENDMAP
+
+LEVEL
+MAP
+  2 0
+  1 1
+2 0 2
+ 2 0 2
+ 1 1
+ 0 2
+ENDMAP
+
+LEVEL
+MAP
+012
+1 010
+021 2
+  201
+ENDMAP
+
+LEVEL
+MAP
+ 21
+1  0
+ 02
+ 20
+0  1
+ 12
+ENDMAP
+
+LEVEL
+MAP
+ 2
+01
+102
+ 201
+  10
+  2
+ENDMAP
+
+LEVEL
+MAP
+2  2
+0  0
+1  1
+ 00
+2  2
+2112
+
+
+
+
+ENDMAP
+
+LEVEL
+BACKGROUND:gfx/background2.png
+MAP
+    2
+  031
+ 130 2
+2 031
+ 130
+ 2
+ENDMAP
+
+LEVEL
+MAP
+ 032
+3   2
+1 01 0
+3   2
+ 032
+ENDMAP
+
+LEVEL
+MAP
+
+  1
+3 0 3
+0 3 0
+21212
+  1
+  3
+  2
+ENDMAP
+
+LEVEL
+MAP
+
+  0   1
+0 3 2 2
+
+2 1 3 3
+1   0
+ENDMAP
+
+LEVEL
+MAP
+12   22
+2 3 0
+2 0 3
+11   1
+2 3   3
+2 0   0
+12  22
+ENDMAP
+
+LEVEL
+MAP
+0312 0
+     3
+2 31 1
+1 02 2
+3
+0 2130
+ENDMAP
+
+LEVEL
+MAP
+    33
+
+01 0220 10
+  03  30
+
+    22
+ENDMAP
+
+LEVEL
+MAP
+1        2
+ 2 3  3 3
+  0    0
+  3    3
+ 1 2102 0
+0        3
+ENDMAP
+
+LEVEL
+MAP
+   3
+ 1 2
+   1
+3210
+
+
+      0321
+      3
+      2 3
+      1
+ENDMAP
+
+LEVEL
+MAP
+120       
+301       
+032       
+
+
+
+
+
+
+
+ENDMAP
+
+LEVEL
+BACKGROUND:gfx/background3.png
+MAP
+  2
+
+3 4 0
+0 4 3
+
+  1
+ENDMAP
+
+LEVEL
+MAP
+001122
+422003
+434213
+134214
+100334
+332200
+ENDMAP
+
+LEVEL
+MAP
+ 4
+030
+242
+1313
+ 4 4
+ 212
+ENDMAP
+
+LEVEL
+MAP
+  01
+ 4  4
+2 3  3
+3  0 2
+ 4  4
+  10
+ENDMAP
+
+LEVEL
+MAP
+4302
+3
+0 431
+2 3
+  1 43
+    3
+ENDMAP
+
+LEVEL
+MAP
+1
+ 3
+40 3
+2 40 3
+  2 40 3
+    2 40
+      2
+       1
+ENDMAP
+
+LEVEL
+MAP
+ 0 3 0
+1 2 4
+ 3 0 1
+2 4 2
+ 0 1 4
+3 2 3
+ENDMAP
+
+LEVEL
+MAP
+02        
+ 4        
+ 3        
+ 1        
+ 0        
+ 2        
+ 4        
+13        
+ENDMAP
+
+LEVEL
+MAP
+14    41
+
+3 4201 2
+4      4
+21 02 43
+
+
+
+
+
+ENDMAP
+
+LEVEL
+MAP
+
+
+  1    1
+   0  0
+    32
+    40
+   2  3
+  1    1
+ 3      2
+0        4
+ENDMAP
+
+LEVEL
+BACKGROUND:gfx/background4.png
+MAP
+ 3223
+ 3  3
+ 0  0
+505505
+
+
+ENDMAP
+
+LEVEL
+MAP
+3311
+
+5500
+
+
+2244
+
+5500
+ENDMAP
+
+LEVEL
+MAP
+  44  00
+33  11
+  55  11
+00  22
+  33  33
+11  55
+  00  22
+22  44
+ENDMAP
+
+LEVEL
+MAP
+350
+  5
+152
+
+
+     241
+     4
+     043
+ENDMAP
+
+LEVEL
+MAP
+0 5
+1 4
+2 3
+3 2
+4 1
+5 0
+ENDMAP
+
+LEVEL
+MAP
+
+0  312
+3  1
+1 024
+25 4
+4  031
+ENDMAP
+
+LEVEL
+MAP
+24  50
+1    3
+  54
+  45
+3    1
+05  42
+ENDMAP
+
+LEVEL
+MAP
+ 40123
+ 54004
+ 14225
+ 25330
+ 35112
+ 0 453
+ENDMAP
+
+LEVEL
+MAP
+   3
+   4
+5321
+
+5114
+4005
+
+1235
+4
+3
+ENDMAP
+
+LEVEL
+MAP
+
+
+
+
+
+       3 1
+      4351
+     00
+      5 43
+     22 02
+ENDMAP
+
+LEVEL
+BACKGROUND:gfx/background5.png
+MAP
+03
+  1
+   2
+  4
+65
+ENDMAP
+
+LEVEL
+MAP
+   31
+   65
+
+41 03 41
+
+   56
+ 2 40 2
+   13
+ENDMAP
+
+LEVEL
+MAP
+      0
+ 2   3 1
+  3 4   3
+   1  66 2
+  5 4   5
+ 2   2 4
+      0
+ENDMAP
+
+LEVEL
+MAP
+  6
+  2
+  3
+ 465
+ 104
+401
+564
+ 3
+ 2
+ 6
+ENDMAP
+
+LEVEL
+MAP
+  5
+ 1 3
+0 2 632
+ 1 5   5
+  3   1 6
+   236 2 0
+      1 3
+       5
+ENDMAP
+
+LEVEL
+MAP
+    5
+ 4  46
+  0    2
+      1
+ 1  6   30
+03   6  1
+   1
+  2    0
+    64  4
+     5
+ENDMAP
+
+LEVEL
+MAP
+     4 5
+      0
+2
+ 0
+3
+         2
+        0
+         3
+   0
+  6 1
+ENDMAP
+
+LEVEL
+MAP
+    13
+    02
+
+
+31  56  64
+02  41  53
+
+
+    30
+    12
+ENDMAP
+
+LEVEL
+MAP
+      1 63
+      4  5
+    2
+    0   41
+
+    3 02
+
+
+
+
+ENDMAP
+
+LEVEL
+MAP
+50
+ 3
+216
+4   1
+62 34
+     43 46
+     1   2
+       610
+        3
+        25
+ENDMAP
+
+LEVEL
+BACKGROUND:gfx/background6.png
+MAP
+ 3 2
+0 1
+    5 7
+   4 6
+ENDMAP
+
+LEVEL
+MAP
+  63
+1 70
+  2
+   2
+  07 1
+  36
+ENDMAP
+
+LEVEL
+MAP
+
+ 03 14
+ 3   4
+ 2 1 7 2
+   4   3
+   47 30
+ENDMAP
+
+LEVEL
+MAP
+ 0
+2 2
+1 1
+ 4
+ 3
+767
+ 2
+ 1
+ENDMAP
+
+LEVEL
+MAP
+   01
+   10
+  2  2
+65    32
+56    23
+  4  4
+   30
+   03
+ENDMAP
+
+LEVEL
+MAP
+
+
+   2013
+  7 7  7
+  7  1 7
+   5764
+
+ 2      6
+031    507
+ 4      2
+ENDMAP
+
+LEVEL
+MAP
+     4
+    3
+     7
+    1
+ 6 3 2 7 3
+5 0 4 1 2
+     6
+    5
+     2
+    3
+ENDMAP
+
+LEVEL
+MAP
+7        7
+ 6      6
+  2 00 2
+
+   3  4
+   1  2
+
+  4 21 3
+
+
+ENDMAP
+
+LEVEL
+MAP
+2
+1    3 7
+30  3 7
+     7 3
+      3
+  2
+ 2 4
+  4 1   45
+   1     6
+         7
+ENDMAP
+
+LEVEL
+MAP
+7
+   1245
+  43  24
+ 52    02
+ 4  20  1
+ 0  02  6
+ 35    27
+  42  14
+   0367
+         7
+ENDMAP
